@@ -1,0 +1,20 @@
+Optimizer Comparison on MNIST Dataset
+------------------------------------
+
+Training epochs: 10
+Batch size: 128
+
+Final Training Metrics
+Adam - Training accuracy: 0.9947
+Adam - Validation accuracy: 0.9910
+SGD - Training accuracy: 0.9889
+SGD - Validation accuracy: 0.9903
+
+Test Metrics
+Adam - Test accuracy: 0.9920
+SGD - Test accuracy: 0.9904
+
+Key Observations:
+- Adam achieved higher final test accuracy than SGD
+- Adam achieved higher final training accuracy than SGD
+- Adam converged faster than SGD in early training
