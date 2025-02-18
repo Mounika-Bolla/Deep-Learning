@@ -40,7 +40,7 @@ The assignment includes:
 [Insert Video Link Here]
 
 ## Repository Link
-[Insert GitHub Repo Link Here]
+[https://github.com/Mounika-Bolla/Deep-Learning]
 
 ---
 For any queries, please reach out via email or discussion forums.
