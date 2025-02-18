@@ -5,7 +5,7 @@
 ## Student Information
 - **Name:** [Mounika Bolla]  
 - **Student ID:** 700757766  
-- **Course:** [CS 5720]  
+- **Course:** [CS 5720 Neural Networks and Deep Learning]  
 
 
 ## Project Overview
@@ -37,7 +37,7 @@ The assignment includes:
 3. This README file provides an overview and explanation of the assignment.
 
 ## Video Demonstration
-[Insert Video Link Here]
+[https://drive.google.com/file/d/1lhx6OZ6z2vO4iQdZEmv9N75OaUZfLbwa/view?usp=drive_link]
 
 ## Repository Link
 [https://github.com/Mounika-Bolla/Deep-Learning]
